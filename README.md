@@ -8,10 +8,10 @@ Son olarak da çözdüğümüz metni kayediyoruz.
 ## Programdan Görüntüler
 
 Şifrelenecek metni görme amaçlı yazdırıyoruz. Daha sonra şifreleme için gerekli olan matrisi oluşturup ekrana bastırıyoruz.
-<br/>
+<br/> <br/>
 ![1. fotoğraf](./Images/1.png)
-<br/> <br/>
+<br/> <br/> <br/>
 Bu matrisi kullanarak şifrelenecek metni oluşturuyoruz ve oluşturduğumuz şifre dosyasını ekrana yazdırıyoruz.
-<br/>
-![2. fotoğraf](./Images/2.png)
 <br/> <br/>
+![2. fotoğraf](./Images/2.png)
+<br/> <br/> <br/>
